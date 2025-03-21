@@ -2,7 +2,7 @@
 CommandGPT is a lightweight command-line ChatGPT client with no cost and no rate limits.
 
 # Build Instructions
-A batch file (build.bat) is provided in this repository's root, so you can just run it to build CommandGPT. MinGW must be installed on your system to build it.
+A batch file (build.bat) is provided in this repository's root, so you can just run it to build CommandGPT. The compiled executable will be placed in the `distributable` folder. MinGW must be installed on your system to build it.
 
 Alternatively, you can download an already compiled executable from the Releases page.
 
