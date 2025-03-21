@@ -1,0 +1,1 @@
+g++ source\main.cpp source\connect_to_model.cpp source\talk_to_ai.c -o distributable\commandgpt.exe
